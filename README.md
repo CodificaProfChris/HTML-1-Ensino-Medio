@@ -1,1 +1,4 @@
-# HTML-1-Ensino-Medio
+# Projeto: Locadora HTML
+## Escola: Leaders School
+### Turma: 1ºAno Ensino Médio
+Linguagem: Html e Css

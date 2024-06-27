@@ -1,0 +1,105 @@
+AULA 03/06 
+
+Formulário
+Nome
+Aluno/prof
+Se gosta de programar
+
+<p> Nome: </p>
+<entrada tipo=texto>
+<p> Aluno </p>
+<entrada tipo=radial>
+<p> Professor</p>
+<entrada tipo=radial>
+<p> Você gosta de programar? </p>
+<entrada tipo=checkbox> 
+
+COLOCAR AQUI 
+<form>  
+<p>  Renan muniz  <p>
+<entrada tipo=radial>
+<p> cristian</p>
+<entrada tipo=radial>
+<p>Você gosta de programar? sim </P>
+<entrada topo= checkbox>
+
+
+Aula 10/06
+Revisão:
+Criar Títulos
+<H1 Títul>o Aqui </H1>
+Criar Parágrafos
+<p> Texto Aqui </p>
+Criar Estilos
+<p style=”color:BLUE”;> Texto Aqui </p>
+Criar Estilos: Negrito
+<p> <strong> Texto Aqui </strong> </p>
+Criar Estilos: Itálico
+<p> <em> Texto Aqui </em> </p>
+
+Criar Lista
+<ul>
+  <li> 1 </li>
+  <li> 1 </li>
+  <li> 2 </li>
+</ul>
+OU
+<ol>
+  <li> 1 </li>
+  <li> 2 </li>
+  <li> 3 </li>
+</ol>
+
+Criar Tabela
+<table>
+  <tr>
+    <td> 1 </td>
+    <td> 2 </td>
+    <td> 3 </td>
+  </tr>
+</table>
+
+Criar Formulário
+<form>
+  <label for="name"> Qual seu nome: </label><br>
+  <input type="text” value="DIGITE AQUI"><br>
+  <label for="sobrenome">Sobrenome:</label><br>
+  <input type="text" value="DIGITE AQUI"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+Exercício:
+Crie 1 opção de cada:
+Títulos
+Parágrafos
+Adicionar Estilos
+Lista
+Formulário
+
+<H1> Eu Gosto de café </H1> 
+<p> T omo com pao e queijo, gosto de passear no shopping </p> 
+
+<p> style=’ color : blue  “;> eu gosto de café da manhã gosto de fruta ab
+
+banana melão kiwi uva maçã  < /p>
+<p> <strong> gosto de ir ao cinema  </ strong> </p>
+
+<p> <em> gosto inglês </em> </p>
+
+
+<tablog kingkong,
+  <tr>
+    <td> 1 detetives do prédio </td>
+    <td> 2 gato de bota </td>
+    <td> 3  </td>
+  </tr>
+</table>
+
+<tablog kingkong,
+  <tr>
+    <td> 1 assim na terra como inferno </td>
+    <td> 2a múmia  d>
+    <td> 3 sobrenatural a origem samara</td>
+  </tr>a freira 
+</table>
